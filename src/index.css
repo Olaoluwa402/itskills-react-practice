@@ -27,14 +27,12 @@ body{
 }
 
 /* slides */
-/* 
 .slide{
   opacity:0;
   transition: 1s ease;
-}
- 
+}  
 .slide.active{
   opacity: 1;
   transition: 1s;
   transform: scale(1.08);
-} */
+} 

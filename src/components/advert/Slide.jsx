@@ -14,7 +14,7 @@ function Slide({sd}) {
           <span>Upto</span>
           <h3>50% Off</h3>
           <p>Offer ends after 5days</p>
-          <a href='#'>View Offer</a>
+          <a href='#' className={styles.btn}>View Offer</a>
         </div>
         <div className={styles.prod_2}>
           <img src={image_2} alt='slide'/>

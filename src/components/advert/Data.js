@@ -25,10 +25,6 @@ const Data = [
         image_1:phone5,
         image_2:phone7
     },
-    {
-        image_1:phone7,
-        image_2:phone7
-    }
 ]
 
 export {Data}
